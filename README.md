@@ -38,5 +38,5 @@ This project shows practical usage of:
 ## ▶️ How to Run the Program
 1. Clone or download the project folder:
    ```bash
-   git clone https://github.com/ItsKazmiZone/al-syed-cloth-shop-management-system.git
+   git clone https://github.com/iamsyedkazimali/al-syed-cloth-shop-management-system.git
    cd al-syed-cloth-shop-management-system
